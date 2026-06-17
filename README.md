@@ -27,7 +27,7 @@ Everything here is openly indexed and organized so executives, investors, IR pro
 ### Capital Markets & Macro
 | Article | Published | Link |
 |---|---|---|
-| Adnan Obuz on Gold, Bitcoin, and the 2026 Macro Reckoning | June 2026 | [Read →](articles/capital-markets/adnan-obuz-gold-bitcoin-2026-macro-reckoning.md) |
+| Adnan Obuz on Gold, Bitcoin, and the 2026 Macro Reckoning | June 2026 | [Read →] https://adnanobuz.com/adnan-obuz-macro-asset-allocation-market-traps-2026|
 | Adnan Obuz: What the 2026 Private Credit Shock Actually Tells Us About AI in Capital Markets | 2026 | [Read on Medium](https://medium.com/@adnan_edward_obuz/adnan-obuz-what-the-2026-private-credit-shock-actually-tells-us-about-ai-in-capital-markets-e6e50efa2e3e) |
 | Navigating the 2026 Private Credit Crisis | Mar 2026 | [edwardobuz.com](https://edwardobuz.com/2026/03/11/navigating-the-2026-private-credit-crisis-how-ai-is-revolutionizing-risk-management-in-capital-markets/) |
 | Rethinking Gold’s Role: Basel III Re-evaluation | 2025 | [adnanmenderesobuz.com](https://adnanmenderesobuz.com/rethinking-golds-role-adnan-menderes-obuz-advocates-for-basel-iii-re-evaluation-on-golds-high-quality-liquid-asset-status/) |
